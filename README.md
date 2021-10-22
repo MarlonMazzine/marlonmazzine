@@ -1,7 +1,7 @@
 # Olá!!! Eu sou o Marlon Mazzine
 
 - 🔭 Hoje trabalho com backend
-- 🌱 Estudando PostgreSQL
+- 🌱 Estudando PostgreSQL, AWS e CI/CD
 
 <div>
   <a href="https://github.com/marlonmazzine">
