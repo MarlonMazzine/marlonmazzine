@@ -17,6 +17,7 @@
   <img align="center" alt="Marlon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marlon-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Marlon-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Marlon-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/aws-original.svg">
 </div>
   
   ##
